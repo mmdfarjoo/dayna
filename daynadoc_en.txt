@@ -1,0 +1,28 @@
+In this program written with tkinter, I tried to design it like a toolbox, this program is still in beta version and I am developing it and trying to make the tools in the software more and more useful. .
+I'm new to Python programming and I'm working on it. If you see a problem in the codes, please fix it :)
+I apologize if my code is messy :)
+
+
+Well, the program works like this:
+
+In the input field, enter pre-made commands to open your comment window.
+The commands I have written in beta version 0.01 are as follows:
+    Time or Date = Show time and date
+
+    Speed ​​test = speed test internet display
+
+    Search or email = search in google and send mail in google gmail
+
+    Roll = show a random number
+
+    contact me = set your username (don't mess it up :)))
+
+    cal or calculator = show the calculator
+
+    Open = Open the program in your operation
+
+
+
+    I uploaded the source code of this program freely on GitHub and if you like it, I would be grateful if you could run this program.
+
+    Thankful :)
